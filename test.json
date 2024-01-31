@@ -1,0 +1,402 @@
+[
+{
+	"title": "Saguaro National Park",
+	"picture": "pictures/saguaro-national-park.jpg",
+	"description": "Saguaro National Park is the biggest protected area for the iconic Arizona plant.",
+	"tags": ["natural", "tucson", "se", "Bathrooms"],
+	"website": "https://www.nps.gov/sagu/index.htm",
+	"credits": "Public Domain"
+},
+{
+	"title": "Tonto National Forest",
+	"picture": "pictures/tonto-national-forest.jpg",
+	"description": "The biggest national forest in Arizona, but with the most beautiful land in the country.",
+	"tags": ["natural", "c", "Bathrooms"],
+	"website": "https://www.fs.usda.gov/tonto/",
+	"credits": "Greg Hume"
+},
+{
+	"title": "Heard Museum",
+	"picture": "pictures/heard-museum.jpg",
+	"description": "The Heard Museum is a world-renowned museum dedicated to the advancement of American Indian art.",
+	"tags": ["cultural", "phoenix", "c", "Wheelchair Friendly", "Masks Required", "Bathrooms"],
+	"website": "https://heard.org/",
+	"credits": "BellaEatsBooks"
+},
+{
+	"title": "Casa Grande Ruins",
+	"picture": "pictures/casa-grande.jpg",
+	"description": "The Casa Grande Ruins are the ancient remnants of a 15th-century Pueblo city.",
+	"tags": ["historic", "coolidge", "se", "Wheelchair Friendly", "Bathrooms"],
+	"website": "https://www.nps.gov/cagr/index.htm",
+	"credits": "Greg Hume"
+},
+{
+	"title": "Grand Canyon",
+	"picture": "pictures/grand-canyon.jpg",
+	"description": "The Grand Canyon is the most vast and breathtakingly beautiful sight that Arizona has to offer.",
+	"tags": ["natural", "n", "Bathrooms"],
+	"website": "https://www.nps.gov/grca/index.htm",
+	"credits": "Public Domain"
+},
+{
+	"title": "Tombstone",
+	"picture": "https://www.publicdomainpictures.net/pictures/230000/velka/the-tombstone-stage.jpg",
+	"description": "Home of the gunfight at O.K. Corral, this town continues to relive its Old West heyday.",
+	"tags": ["historic", "se", "Bathrooms"],
+	"website": "https://tombstoneweb.com",
+	"credits": "Public Domain"
+},
+{
+	"title": "London Bridge",
+	"picture": "https://www.publicdomainpictures.net/pictures/260000/velka/london-bridge-arizona-usa.jpg",
+	"description": "Lake Havasu City is the new home of the original London Bridge, which was transported there in 1971.",
+	"tags": ["historic", "sw", "Drive-Through", "Bathrooms"],
+	"website": "https://www.golakehavasu.com/london-bridge",
+	"credits": "Public Domain"
+},
+{
+	"title": "Biosphere 2",
+	"picture": "https://images.pexels.com/photos/945937/pexels-photo-945937.jpeg?cs=srgb&dl=biosphere-2-945937.jpg&fm=jpg",
+	"description": "Biosphere 2 is the world's longest running earth science experiment: a completely self-contained environment in a glass house.",
+	"tags": ["educational", "tucson", "se", "Guided Tours", "Masks Required", "Bathrooms"],
+	"website": "https://biosphere2.org/",
+	"credits": "Public Domain"
+},
+{
+	"title": "Musical Instruments Museum",
+	"picture": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Phoenix-Musical_Instrument_Museum-2.jpg",
+	"description": "The Musical Instruments Museum (MIM) is the worlds largest collection of musical instruments, from nearly every country in the world.",
+	"tags": ["cultural", "phoenix", "c", "Wheelchair Friendly", "Guided Tours", "Bathrooms"],
+	"website": "https://mim.org/",
+	"credits": "Marine 69-71"
+},
+{
+	"title": "Sedona",
+	"picture": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Cathedral_Rock_-_Sedona_AZ-1.jpg",
+	"description": "Sedona is a town famous for its magical mountains of red rocks, of which it has captivated many a hiker with.",
+	"tags": ["natural", "n"],
+	"website": "https://visitsedona.com/",
+	"credits": "Terrydarc"
+},
+{
+	"title": "Bearizona",
+	"picture": "https://c1.staticflickr.com/5/4151/5025831833_8c9ac36d33_z.jpg",
+	"description": "Get up close with animals in this unique and memorable drive-through wildlife park.",
+	"tags": ["educational", "n", "Wheelchair Friendly", "Drive-Through", "Bathrooms"],
+	"website": "https://bearizona.com/",
+	"credits": "Lauri Väin"
+},
+{
+	"title": "San Tan Flat",
+	"picture": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flive.staticflickr.com%2F5058%2F5481931717_2caf361fa0_n.jpg&f=1&nofb=1",
+	"description": "This outdoor eatery has all the fun of camping, without having to sleep on the ground.",
+	"tags": ["resturant", "c", "queen creek", "Bathrooms"],
+	"website": "https://www.santanflat.com/",
+	"credits": "Den Smith"
+},
+{
+	"title": "QC Cafe",
+	"picture": "pictures/qc-cafe.jpg",
+	"description": "If you're looking for a place to relax, this classic cafe has got you covered.",
+	"tags": ["resturant", "c", "queen creek", "Bathrooms"],
+	"website": "http://queencreekcafe.com/",
+	"credits": "Public Domain"
+},
+{
+	"title": "San Tan Village",
+	"picture": "https://farm3.staticflickr.com/2698/4519010199_e156255e9c_z.jpg",
+	"description": "San Tan Village is a popular and modern outdoor mall with plenty of name-brand stores.",
+	"tags": ["shopping", "c", "queen creek", "Bathrooms", "Wheelchair Friendly"],
+	"website": "https://www.shopsantanvillage.com/",
+	"credits": "Aaron Burr"
+},
+{
+	"title": "Superstition Springs Center",
+	"picture": "https://assets.macerichepicenter.com/FileManager/Property/Promotions/Content/SuperstitionSpringsCenter/superstition_highlight-banner.jpg",
+	"description": "Superstition Springs Center is an expansive mall with several notable and local shops.",
+	"tags": ["shopping", "c", "mesa", "Bathrooms", "Wheelchair Friendly"],
+	"website": "https://www.superstitionsprings.com/",
+	"credits": "Public Domain"
+},
+{
+	"title": "Chandler Fashion Center",
+	"picture": "https://assets.macerichepicenter.com/FileManager/Property/Promotions/Content/ChandlerFashionCenter/CFC_Highlight_Banner.jpg",
+	"description": "Chandler Fashion Center is an high-end mall with several quality shops.",
+	"tags": ["shopping", "c", "chandler", "Bathrooms", "Wheelchair Friendly"],
+	"website": "https://www.shopchandlerfashioncenter.com/",
+	"credits": "Public Domain"
+},
+{
+	"title": "Tucson Mall",
+	"picture": "https://www.tucsonmall.com/content/dam/rw-2/images/mall-images/exteriors/seo-homepage-images/tucson-homepage-seo-767x510.jpg",
+	"description": "Tucson Mall is a unique mall, made for people who have a keen sense of style.",
+	"tags": ["shopping", "se", "tucson", "Bathrooms", "Wheelchair Friendly"],
+	"website": "https://www.tucsonmall.com/en.html",
+	"credits": "Public Domain"
+},
+{
+	"title": "Lost Dutchman State Park",
+	"picture": "https://ak.picdn.net/shutterstock/videos/9716459/thumb/1.jpg",
+	"description": "The Lost Dutchman State Park, located in the Superstition Mountains, is an unsolved mystery in the works; a literal buried treasure.",
+	"tags": ["historical", "c", "Bathrooms"],
+	"website": "https://azstateparks.com/lost-dutchman/",
+	"credits": "Public Domain"
+},
+{
+	"title": "Lowell Observatory",
+	"picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Clark_dome.jpg/1024px-Clark_dome.jpg",
+	"description": "90 years ago, Pluto was discovered at this observatory. Today, it continues to inspire stargazers worldwide.",
+	"tags": ["educational", "n", "Bathrooms", "Guided Tours", "Wheelchair Friendly", "flagstaff"],
+	"website": "https://lowell.edu/",
+	"credits": "Pretzelpaws"
+},
+{
+	"title": "Queen Mine Tour",
+	"picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/CopperQueenMineTour.jpg/1280px-CopperQueenMineTour.jpg",
+	"description": "Step in the shoes of a 19th century miner and go back in time to explore Bisbee's Queen Mine.",
+	"tags": ["educational", "se", "Bathrooms", "Guided Tours", "bisbee"],
+	"website": "https://www.queenminetour.com/",
+	"credits": "Jlahorn"
+},
+{
+	"title": "Antelope Canyon",
+	"picture": "pictures/antelope-canyon.jpg",
+	"description": "Antelope Canyon is filled with otherwordly views and plenty of opportunities for a perfect photo.",
+	"tags": ["natural", "n", "Guided Tours"],
+	"website": "https://www.queenminetour.com/",
+	"credits": "Brandon Erdman"
+},
+{
+	"title": "Queen Creek Olive Mill",
+	"picture": "https://i0.wp.com/withtwospoons.com/wp-content/uploads/2018/04/Queen-Creek-2018-10.jpg?ssl=1",
+	"description": "Queen Creek Olive Mill is an old-fashioned, high-quality shop and resturant.",
+	"tags": ["resturant", "c", "Bathrooms", "Wheelchair Friendly", "queen creek"],
+	"website": "https://www.queencreekolivemill.com/",
+	"credits": "Lane"
+},
+{
+	"title": "Topo",
+	"picture": "https://images.squarespace-cdn.com/content/v1/5c4f82e62714e5a41bab8eea/1618871406932-2ZJSNEI9X1925BLBGOR4/topo_history_images_inspiration_v1.jpg?format=1000w",
+	"description": "All the classic vibe of the American road trip, located at this roadside stand.",
+	"tags": ["resturant", "c", "Bathrooms", "Wheelchair Friendly", "Drive-Through", "phoenix"],
+	"website": "https://www.topoarizona.com/",
+	"credits": "Public Domain"
+},
+{
+	"title": "Cress on Oak Creek",
+	"picture": "pictures/cress-oak-creek.jpg",
+	"description": "A beautiful cliffside resturant beside Sedona's prime resort: perfect for dates.",
+	"tags": ["resturant", "n", "Bathrooms", "Wheelchair Friendly"],
+	"website": "https://www.lauberge.com/dining/cress-on-oak-creek/",
+	"credits": "Public Domain"
+},
+{
+	"title": "Pizzeria Bianco",
+	"picture": "https://images.squarespace-cdn.com/content/v1/6099bdee28fc4e72bd84675b/87329d36-f735-435c-8a37-2e3cb4848dd2/phoenix-downtown-pizzeria.jpg?format=750w",
+	"description": "One of the best pizzerias in the state, and the inspiration for generations of artisan pizza makers in Arizona.",
+	"tags": ["resturant", "c", "Bathrooms", "Wheelchair Friendly", "phoenix"],
+	"website": "https://www.pizzeriabianco.com/",
+	"credits": "Public Domain"
+},
+{
+	"title": "Turquoise Room",
+	"picture": "https://theturquoiseroom.com/wp-content/uploads/2021/04/turquoise-room-dining-room-2-1366-150x150.jpg",
+	"description": "An extravagant dining hall, for when you want to eat fancy.",
+	"tags": ["resturant", "n", "Bathrooms", "Wheelchair Friendly"],
+	"website": "https://theturquoiseroom.com/",
+	"credits": "Public Domain"
+},
+{
+	"title": "Lo-Lo's Chicken and Waffles",
+	"picture": "https://loloschickenandwaffles.com/wp-content/uploads/2014/07/about3.png",
+	"description": "The origin of chicken and waffles was started right here, at Lo-Lo's!",
+	"tags": ["resturant", "c", "Bathrooms", "Wheelchair Friendly", "phoenix"],
+	"website": "https://loloschickenandwaffles.com/",
+	"credits": "Public Domain"
+},
+{
+	"title": "Arizona Wilderness Brewing Company",
+	"picture": "https://assets.simpleviewinc.com/simpleview/image/fetch/c_limit,h_1200,q_75,w_1200/https://assets.simpleviewinc.com/simpleview/image/upload/crm/phoenix/DSC_1035_CEA24800-F4BB-4C71-B4D77E4DAEE50546_be34cfe0-9c73-42c1-980d7ed420b17d4b.jpg",
+	"description": "Arizona Wilderness Brewing Company celebrates the art of craft beer, combined with the diversity of the state of Arizona.",
+	"tags": ["resturant", "c", "Bathrooms", "Wheelchair Friendly", "gilbert"],
+	"website": "https://azwbeer.com/",
+	"credits": "Public Domain"
+},
+{
+	"title": "Montezuma's Castle",
+	"picture": "https://pixnio.com/free-images/architecture/castles/montezuma-castle-in-mountain.jpg",
+	"description": "Montezuma's Castle is a brilliant castle cut into a cliff. It is the only pre-Columbian castle in America.",
+	"tags": ["historic", "n", "Bathrooms"],
+	"website": "https://www.nps.gov/moca/index.htm",
+	"credits": "Public Domain"
+},
+{
+	"title": "Petrified Forest",
+	"picture": "https://cdn.pixabay.com/photo/2014/03/23/04/20/petrified-forest-293076_640.jpg",
+	"description": "The Petrified Forest goes back to prehistoric times; over time, the forest turned to stone that you can visit, today!",
+	"tags": ["natural", "n", "Drive-Through"],
+	"website": "https://www.nps.gov/pefo/index.htm",
+	"credits": "Public Domain"
+},
+{
+	"title": "Hoover Dam",
+	"picture": "https://cdn.pixabay.com/photo/2015/07/03/17/15/arizona-830472_960_720.jpg",
+	"description": "The Hoover Dam is the biggest economic project of the 1930's and a testament to human engineering prowess.",
+	"tags": ["historic", "n", "Drive-Through"],
+	"website": "https://www.usbr.gov/lc/hooverdam/",
+	"credits": "Public Domain"
+},
+{
+	"title": "Pioneer Living History Museum",
+	"picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Phoenix-Pioneer_Living_History_Museum-Gordon_School_House-1885-1.jpg/1280px-Phoenix-Pioneer_Living_History_Museum-Gordon_School_House-1885-1.jpg",
+	"description": "Explore the life of an early Arizona settler with the Pioneer Museum.",
+	"tags": ["historic", "c", "phoenix", "Bathrooms"],
+	"website": "https://pioneeraz.org/",
+	"credits": "Marine 69-71"
+},
+{
+	"title": "Touvrea Castle",
+	"picture": "https://farm1.staticflickr.com/390/31154708964_8049cf973f_b.jpg",
+	"description": "A beautiful and majestic castle built in the 1920's, and towards which every Phoenix resident can see its flag.",
+	"tags": ["historic", "c", "phoenix", "Bathrooms", "Guided Tours"],
+	"website": "https://tovreacastletours.com/",
+	"credits": "Gage Skidmore"
+},
+{
+	"title": "Hubbell Trading Post",
+	"picture": "https://live.staticflickr.com/2343/5794439479_e692ea086d_b.jpg",
+	"description": "Shop in the old frontier at the longest continuously running trading post in the Navajo Nation.",
+	"tags": ["historic", "shopping", "n", "Bathrooms", "Guided Tours"],
+	"website": "https://www.nps.gov/hutr/index.htm",
+	"credits": "Dan Kunz"
+},
+{
+	"title": "Old Oraibi",
+	"picture": "https://i.pinimg.com/originals/9a/a6/ed/9aa6ed97714e0283dd7a6e882fe73e35.jpg",
+	"description": "Old Oraibi is the oldest continuously inhabited place in Arizona: It flows with the culture of a thousand years of living.",
+	"tags": ["cultural", "historic", "n", "Bathrooms"],
+	"website": "https://sah-archipedia.org/buildings/AZ-01-017-0058",
+	"credits": "Public Domain"
+},
+{
+	"title": "Jerome Historical District",
+	"picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Jerome_Grand_Hotel_(Jerome%2C_Arizona).jpg/400px-Jerome_Grand_Hotel_(Jerome%2C_Arizona).jpg",
+	"description": "Everything you would want to know about early 20th-century Arizona copper mining is located within this historic district.",
+	"tags": ["historic", "n", "Bathrooms"],
+	"website": "http://azjerome.com/",
+	"credits": "Finetooth"
+},
+{
+	"title": "Gila River Arena",
+	"picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Gila_River_Arena_Gate_4_Entrance.jpg/1280px-Gila_River_Arena_Gate_4_Entrance.jpg",
+	"description": "Hockey fans will know this well: Gila River Arena is Arizona's flagship hockey arena, and is surrounded by a massive shopping district.",
+	"tags": ["shopping", "entertainment", "c", "chandler", "Bathrooms", "Guided Tours", "Wheelchair Friendly"],
+	"website": "https://www.gilariverarena.com/",
+	"credits": "Public Domain"
+},
+{
+	"title": "Arizona Diamondbacks",
+	"picture": "https://logos-download.com/wp-content/uploads/2016/04/Arizona_Diamondbacks_logo_logotype.png",
+	"description": "Arizona's state baseball team has some legendary games you won't want to miss.",
+	"tags": ["sports"],
+	"website": "https://www.mlb.com/dbacks",
+	"credits": "Public Domain"
+},
+{
+	"title": "Arizona Cardinals",
+	"picture": "https://1000logos.net/wp-content/uploads/2016/10/Arizona-Cardinals-Logo.png",
+	"description": "Every football fan has to see Arizona's state football team at least once.",
+	"tags": ["sports"],
+	"website": "https://www.azcardinals.com/",
+	"credits": "Public Domain"
+},
+{
+	"title": "Phoenix Suns",
+	"picture": "https://logos-download.com/wp-content/uploads/2018/04/Phoenix_Suns_logo_colour.png",
+	"description": "Arizona's state basketball team can pull out some awesome moments you won't want to miss.",
+	"tags": ["sports"],
+	"website": "https://www.nba.com/suns/",
+	"credits": "Public Domain"
+},
+{
+	"title": "Phoenix Coyotes",
+	"picture": "https://logos-download.com/wp-content/uploads/2018/04/Phoenix_Coyotes_logo_head.png",
+	"description": "You wouldn't expect a desert state to have a hockey team, but the Arizona Coyotes are here nonetheless.",
+	"tags": ["sports"],
+	"website": "http://coyotes.nhl.com/",
+	"credits": "Public Domain"
+},
+{
+	"title": "Phoenix Zoo",
+	"picture": "https://live.staticflickr.com/319/18561299874_c863f2a044_b.jpg",
+	"description": "Zoos exists all around the world, but things work a little differently at this one. Come over to find out!",
+	"tags": ["education", "c", "phoenix", "Bathrooms", "Guided Tours", "Wheelchair Friendly"],
+	"website": "https://www.phoenixzoo.org/",
+	"credits": "Greg Goebel"
+},
+{
+	"title": "Schnepf Farms",
+	"picture": "https://live.staticflickr.com/7554/15066481633_091393ab21_b.jpg",
+	"description": "This farm/bakery combo is more than just a pastry store; events are held year-round!",
+	"tags": ["shopping", "entertainment", "c", "Bathrooms", "queen creek"],
+	"website": "https://schnepffarms.com/",
+	"credits": "Martin Lewison"
+},
+{
+	"title": "Golfland Sunsplash",
+	"picture": "https://c2.staticflickr.com/6/5345/8849612381_9cdbf7021e_z.jpg",
+	"description": "This wild water park is perfect for a summer vacation!",
+	"tags": ["shopping", "entertainment", "c", "Bathrooms", "mesa"],
+	"website": "https://www.golfland.com/mesa/",
+	"credits": "Ray"
+},
+{
+	"title": "Asero Norte de Sonora",
+	"picture": "pictures/asero-norte.jpg",
+	"description": "Get a taste of Arizonan-Mexican food at this classic Phoenix resturant.",
+	"tags": ["resturant", "c", "Bathrooms", "phoenix"],
+	"website": "https://asaderonortesonora.weebly.com/menu.html",
+	"credits": "Public Domain"
+},
+{
+	"title": "Talking Stick Resort & Casino",
+	"picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Talking_Stick_Resort_Scottsdale_Arizona.jpg/1280px-Talking_Stick_Resort_Scottsdale_Arizona.jpg",
+	"description": "Arizona's biggest casino: it's got shows, games, resturants, pools, and more!",
+	"tags": ["entertainment", "c", "Bathrooms", "scottsdale"],
+	"website": "https://www.talkingstickresort.com/",
+	"credits": "Raquel Baranow"
+},
+{
+	"title": "Pima Air and Space Museum",
+	"picture": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Pima-air-and-space-MCB.jpg",
+	"description": "Hundreds of planes are packed here in the largest, non-governmental air and space museum in the world!",
+	"tags": ["educational", "sw", "Bathrooms", "Wheelchair Friendly", "Guided Tours"],
+	"website": "https://pimaair.org/",
+	"credits": "Nv8200p"
+},
+{
+	"title": "The Perch Brewery",
+	"picture": "https://1.bp.blogspot.com/-e3SOcQftYC4/XPBMvzaVvbI/AAAAAAAAq4Y/IghsIRfG1HcyO74r8lLB5fqIwpv-crLrwCLcBGAs/s1600/20190525_120638.jpg",
+	"description": "It's the regular resurant + brewery combo... but with birds!",
+	"tags": ["resturant", "c", "chandler", "Bathrooms", "Wheelchair Friendly"],
+	"website": "https://perchpubbrewery.com/",
+	"credits": "Julie Ferguson"
+},
+{
+	"title": "Castles N' Coasters",
+	"picture": "https://1.bp.blogspot.com/_cuLnKaQieHM/SjjauUrJGmI/AAAAAAAABKw/43PPfTE2TIA/s400/castles21.jpg",
+	"description": "Get ready for a night of fun rides, golfing, arcades, and the most memorable family experience of your life!",
+	"tags": ["entertainment", "c", "phoenix", "Bathrooms", "Wheelchair Friendly"],
+	"website": "https://www.castlesncoasters.com/",
+	"credits": "MadMadMargo"
+},
+{
+	"title": "Riparian Preserve at Water Ranch",
+	"picture": "https://www.gilbertaz.gov/home/showpublishedimage/2594/635379899998570000",
+	"description": "This preserve is located by a refreshing pond and is perfect for long walks or picnics.",
+	"tags": ["natural", "c", "gilbert", "Bathrooms"],
+	"website": "https://www.gilbertaz.gov/departments/parks-and-recreation/parks-information/parks/riparian-preserve-at-water-ranch",
+	"credits": "Public Domain"
+}
+]

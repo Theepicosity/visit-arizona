@@ -1,0 +1,16 @@
+{
+  "name": "fbla-project-new",
+  "bin": "main.js",
+  "version": "1.1.0",
+  "description": "A program that suggests attractions within Arizona, made for the FBLA 2022 Coding & Programming event.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Adrian Edgar",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^16.0.6",
+    "google-trends-api": "^4.9.2"
+  }
+}

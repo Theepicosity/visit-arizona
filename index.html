@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+	<meta charset="utf-8"/>
+	<style>
+	body {
+	  background-image: url('bg.jpg');
+	  background-repeat: no-repeat;
+	  background-attachment: fixed;
+	  background-size: cover;
+	  background-opacity: 0.5;
+	  font-size: 18;
+	  font-family:'Verdana';
+	  line-height: 130%;
+	  margin-right: 25;
+	  margin-left: 25;
+	  color: white;
+	}
+	h1 {
+	  font-size: 40;
+	  font-family:'Verdana';
+	  text-align: center;
+	}
+	h2 {
+	  font-size: 18;
+	  font-family:'Verdana';
+	  text-align: center;
+	  margin-top: 0em;
+	  margin-bottom: 0em;
+	  margin-left: 0.4em;
+	}
+	h3 {
+	  font-size: 22;
+	  font-family:'Verdana';
+	  margin-top: 0.25em;
+	  margin-bottom: 0em;
+	  margin-left: 0.4em;
+	}
+	h4 {
+	  font-size: 14px;
+	  font-family:'Verdana';
+	  text-align: center;
+	  margin-top: 0.25em;
+	  margin-bottom: 0em;
+	  margin-left: 0.4em;
+	}
+	i {
+	  font-size: 10px;
+	  font-family:'Verdana';
+	}
+	form {
+	  font-family:'Verdana';
+	  margin-top: 0.5em;
+	}
+	article {
+		background-color: rgba(10, 10, 10, 0.9);
+		border-style: solid;
+		border-width: medium;
+		border-radius: 25px;
+		border-color: rgba(0, 0, 0, 1.0);
+		height: 100px;
+		margin-left: auto;
+		margin-right: auto;
+		margin-top: 10px;
+		margin-bottom: 10px;
+		width: 50%;
+		box-shadow: 5px 5px 5px rgba(10, 10, 10, 0.6);
+	}
+	img {
+		border-style: solid;
+		border-width: 2px;
+		border-radius: 25px;
+		border-color: rgba(0, 0, 0, 0.0);
+		margin-left: auto;
+		margin-right: 0.25em;
+		float: center;
+	}
+	img:hover {
+		border-color: rgba(0, 100, 255, 1.0);
+	}
+	sideinputs {
+		font-size: 18;
+		font-family:'Verdana';
+		float: left;
+		margin-top: 0em;
+		margin-bottom: 0em;
+		margin-left: 0.4em;
+		position: sticky;
+		top: 20px;
+	}
+	rightsideinputs {
+		font-size: 18;
+		font-family:'Verdana';
+		text-align: right;
+		float: right;
+		margin-top: 0em;
+		margin-bottom: 0em;
+		margin-left: 0.4em;
+		position: sticky;
+		top: 20px;
+		width: 20%;
+	}
+	</style>
+	<title>Visit Arizona!</title>
+	<body>
+		<br/>
+		<br/>
+		<h1>Visit Arizona!</h1>
+		
+		<h2>
+			<text id="response">Loading...</text><br/>
+			<form>
+			<select name="sorts" id="sorts" onchange="onSort()">
+				<option value="trending">Trending</option>
+				<option value="lexical">Alphabetically</option>
+				<option value="relevance">Relevant</option>
+			</select>
+			<input type="search" oninput="onSearch()" id="query" placeholder="Search...">
+		</form></h2>
+		<h4 id="notice">Notice: No user data is collected or stored in this program. </h4>
+		<sideinputs>
+			<input type="checkbox" value="ALL" onclick="onFilter(value)" checked>Show All</input><br/>
+			By Type:<br/>
+			<input type="checkbox" value="natural" onclick="onFilter(value)">Natural</input><br/>
+			<input type="checkbox" value="historic" onclick="onFilter(value)">Historic</input><br/>
+			<input type="checkbox" value="cultural" onclick="onFilter(value)">Cultural</input><br/>
+			<input type="checkbox" value="educational" onclick="onFilter(value)">Educational</input><br/>
+			<input type="checkbox" value="resturant" onclick="onFilter(value)">Resturants</input><br/>
+			<input type="checkbox" value="shopping" onclick="onFilter(value)">Shopping</input><br/>
+			<input type="checkbox" value="entertainment" onclick="onFilter(value)">Entertainment</input><br/>
+			<input type="checkbox" value="sports" onclick="onFilter(value)">Sports</input><br/>
+			<br/>
+			By City:<br/>
+			<input type="search" id="cityFilter" oninput="onFilter('city')" placeholder="Search a city..."></input><br/>
+			<br/>
+			By Location:<br/>
+			<input type="checkbox" value="c" onclick="onFilter(value)">Central Arizona</input><br/>
+			<input type="checkbox" value="se" onclick="onFilter(value)">Southeastern Arizona</input><br/>
+			<input type="checkbox" value="sw" onclick="onFilter(value)">Southwestern Arizona</input><br/>
+			<input type="checkbox" value="n" onclick="onFilter(value)">Northern Arizona</input><br/>
+			<br/>
+			By Accessibility:<br/>
+			<input type="checkbox" value="Bathrooms" onclick="onFilter(value)">Has Bathrooms</input><br/>
+			<input type="checkbox" value="Wheelchair Friendly" onclick="onFilter(value)">Wheelchair Friendly</input><br/>
+			<input type="checkbox" value="Drive-Through" onclick="onFilter(value)">Drive-Through</input><br/>
+			<input type="checkbox" value="Guided Tours" onclick="onFilter(value)">Guided Tours</input><br/>
+			<br/>
+			<input type="button" onclick="window.scrollTo(0, 0)" value="Back to Top">
+		</sideinputs>
+		<rightsideinputs>
+			<input type="button" onclick="onHelp()" value="Help"><br/>
+			<input type="search" oninput="onHelpSearch()" id="helpquery" style="display:none" placeholder="Ask a question!">
+			<text id="helpresponse"></text><br/>
+		</rightsideinputs>
+		
+		<script src="renderer.js"></script>
+	</body>
+</html>

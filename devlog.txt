@@ -1,0 +1,74 @@
+Visit Arizona! development log
+
+Day 1: 12/18/2021
+- Added the two main files, index.html and main,js, aswell as devlog.txt and bg.jpg.
+- Added initial loop and onSearch() functions for main.js.
+- Searching is fully functional.
+
+Day 2: 1/3/2022
+- Added onSort() and refresh() functions for main.js.
+- Sorting is fully functional.
+
+Day 3: 1/4/2022
+- Added test.jpg and grand-canyon.jpg.
+- Added refreshSort() function for main.js.
+- Article elements are introduced.
+- Pictures are fully functional.
+
+Day 4: 1/5/2022
+- Added test.js.
+- Titles and descriptions are now fully functional.
+
+Day 5: 1/8/2022
+- Added onFilter() function for main.js.
+- Filters are now fully functional.
+
+Day 6: 1/10/2022
+- Moved to running using Electron rather than as a webapp.
+- Additional files have been added to accomodate the Electron workflow: package.json, as well as spliting main.js into main.js, preload.js, and renderer.js
+
+Day 7: 1/14/2022
+- Added onTrendLoad() function for renderer.js
+
+Day 8: 1/15/2022
+- Added "Show All" filter option and other filters.
+- Trends are now fully functional.
+
+Day 9: 1/16/2022
+- Added more articles.
+- Clickable images are now fully functional.
+
+Day 10: 1/29/2022
+- Added data policy notice and photo credits.
+
+Day 11: 1/30/2022
+- Added documentation.md.
+- Optimized & commented code.
+
+Day 12: 1/31/2022
+- Added onHelp() and onHelpSearch() for renderer.js.
+- The help bar is now fully functional.
+
+Day 13: 3/26/2022
+- Implemented failsafes for when articles don't load.
+
+Day 14: 3/28/2022
+- Added polish.
+
+NOTE: Attractions are not limited to only monuments and parks; they can be as simple as shopping centers or resturants.
+
+TODO:
+- Dynamic backup trends data to a file
+- More sort methods
+	- Off the path
+- Settings
+	- Output Details
+	- Disable smart-switch
+- Add articles to dataset
+- Polish!
+	- Add option to go back to the previous page
+	- Make sure it works when scaled
+	- Have the help menu highlight things of importance
+	- Address field...
+- Bugs
+	- Changing sort methods doesn't work if there is a single letter in the search bar.
